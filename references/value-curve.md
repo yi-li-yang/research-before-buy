@@ -4,11 +4,33 @@ Use during Phase 2, once the axis is known and a *vertical* (tier) decision is
 live. If the decision is horizontal, settle that first (see axis-selector.md);
 this method does not apply across kinds.
 
+## Bracket the curve first: find both ends before the knee
+
+You can't locate a point on a curve you haven't bracketed. Before hunting the
+knee, find the two ends — it turns an unbounded "how much should I spend?" into a
+bounded "where on this known range do I belong?", which is far easier to decide
+and is itself an antidote to paralysis.
+
+- **The low end** — the *cheapest thing that genuinely solves the core problem.*
+  Not the cheapest item wearing the category's name, but the cheapest that
+  actually does the minimum job for this person's real need. This sets the floor
+  and answers: "what's the least I could spend and still solve this?"
+- **The high end** — *the best the category can do, regardless of price.* This
+  sets the ceiling and, crucially, shows what capability or quality exists — so
+  the person can see exactly what they're *not* getting at lower tiers and decide
+  whether they care.
+
+Always explore both ends, even when the person expects to land in the middle.
+The low end clarifies the true minimum; the high end clarifies the trade-offs of
+not paying up. The right buy then reveals itself as a located point between two
+known limits.
+
 ## Finding the knee
 
 Every product category has a price-performance curve with a knee — the point
-past which price climbs faster than value. The skill of the tier decision is
-locating that knee **for this person's use**, not the market's average use.
+past which price climbs faster than value. With both ends now known, the skill of
+the tier decision is locating that knee **for this person's use**, not the
+market's average use.
 
 - Overshoot the knee → wasted money.
 - Undershoot → regret.

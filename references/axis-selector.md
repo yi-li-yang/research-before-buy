@@ -112,6 +112,25 @@ which side is this person's kitchen.
 
 ---
 
+## Axis 5 — Objective vs subjective (the taste ceiling)
+
+Some decisions have a knowable better answer; some are pure preference or values,
+where there is no "right" — only what this person likes or believes. Most real
+purchases are a mix, and the move is to find the line between the two within the
+decision.
+
+- The **objective part** — what's well made vs badly made, what the terms really
+  cost, what fails — is the expert's job to settle.
+- The **subjective part** — which colour, which cut, which flavour, which ethical
+  trade-off — is the person's, and expertise cannot decide it without becoming
+  presumptuous.
+
+So: rule out the badly made, frame the genuinely-good options and their
+trade-offs, then **hand the subjective choice back explicitly.** Manufacturing a
+single "right answer" where there's only preference is over-rationalising — a
+failure mode, not rigour. Strongest for experiences, aesthetics, hobbies, and
+values-driven buys.
+
 ## Adding axes
 
 When real use surfaces a decision that none of the above frames cleanly, that's
