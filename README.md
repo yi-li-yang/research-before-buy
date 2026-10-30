@@ -1,3 +1,5 @@
+> **This repository has moved.** The `research-before-buy` skill now lives in [yi-li-yang/skills](https://github.com/yi-li-yang/skills/tree/main/plugins/yili-skills/skills/research-before-buy), which holds all my skills in one plugin, with this repository's full history under [`dev/research-before-buy`](https://github.com/yi-li-yang/skills/tree/main/dev/research-before-buy). Install with `/plugin marketplace add yi-li-yang/skills` then `/plugin install yili-skills@yili-skills`. This repository is no longer updated.
+
 # Research Before Buy
 
 **Every purchase, decided by the actual expert for it. Buying a plant pot? A horticulturist. A TV? A display engineer who could've worked on Samsung's panels. It builds that expertise fresh — researching the field to real depth — and hands you back a decision. You never do the research.**
